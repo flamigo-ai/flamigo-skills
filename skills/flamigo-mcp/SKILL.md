@@ -1,9 +1,11 @@
 ---
 name: flamigo-mcp
-description: Create a Flamigo presentation from notes, an outline, or slide DSL. Use it to inspect an existing deck, edit content, refresh previews, redesign slides, compare alternatives, restore a design, or export HTML or PowerPoint.
+description: Turn rough notes into beautiful presentations with Flamigo, right from your AI assistant. Start with notes or an outline, refine individual slides, compare designs, and export to HTML or PowerPoint (Pro).
 ---
 
 # Flamigo MCP
+
+Paste your notes, review the outline, and let Flamigo design the slides. It pairs layouts, colors, type, and illustrations to suit your topic. Want a different look for one slide? Compare design previews and keep your favorite.
 
 Flamigo saves presentations in the signed-in user's web workspace. A deck has three stages: an **outline** sets the point of each page, **slide DSL** stores structured content, and **rendered HTML** shows the design. Choose the entry point from the material the user already has and stop at the deliverable they requested.
 

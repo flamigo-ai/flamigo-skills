@@ -1,6 +1,6 @@
 # Flamigo Agent Skill
 
-Use Flamigo to turn notes into a presentation, edit slide content, compare designs, and export HTML or PowerPoint from an MCP-capable assistant.
+Turn rough notes into beautiful presentations, right from your AI assistant. Paste your notes and review the outline. Flamigo handles the layout, typography, and illustrations. Ask for a different look on any slide, then share the deck or export it to HTML or PowerPoint (Pro).
 
 Install the `flamigo-mcp` skill with the skills CLI. Run this in your project:
 
