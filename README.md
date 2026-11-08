@@ -2,10 +2,10 @@
 
 Use Flamigo to turn notes into a presentation, edit slide content, compare designs, and export HTML or PowerPoint from an MCP-capable assistant.
 
-Install the `flamigo-mcp` skill with the skills CLI. From a checkout of this repository:
+Install the `flamigo-mcp` skill with the skills CLI. Run this in your project:
 
 ```sh
-npx skills add . --skill flamigo-mcp
+npx skills add wangxinbo1987/flamigo-skills --skill flamigo-mcp
 ```
 
 Connect your client to `https://api.flamigo.ai/mcp` using Streamable HTTP and browser OAuth. Sign in to your Flamigo account, then ask the assistant to list your presentations to check the connection.
