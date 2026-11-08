@@ -1,6 +1,6 @@
 # Flamigo Agent Skill
 
-[![Flamigo homepage with flamingos behind the headline “Making beautiful slides has never been easier” and a sample presentation](assets/flamigo-homepage.jpg)](https://flamigo.ai/)
+[![Flamigo homepage with flamingos behind the headline “Making beautiful slides has never been easier” and a sample presentation](https://raw.githubusercontent.com/wangxinbo1987/flamigo-skills/main/assets/flamigo-homepage.jpg)](https://flamigo.ai/)
 
 Turn rough notes into beautiful presentations, right from your AI assistant. Paste your notes and review the outline. Flamigo handles the layout, typography, and illustrations. Ask for a different look on any slide, then share the deck or export it to HTML or PowerPoint (Pro).
 
